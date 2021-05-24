@@ -1,0 +1,16 @@
+
+http://localhost:8080/move/car
+%%%
+
+# Duration: 135 ms
+# URL: http://localhost:8080/move/car
+
+# HTTP/1.1 200
+
+@Content-Type: text/plain;charset=UTF-8
+@Content-Length: 26
+@Date: Mon, 24 May 2021 13:45:56 GMT
+@Keep-Alive: timeout=60
+@Connection: keep-alive
+
+차가 움직였습니다.
